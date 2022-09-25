@@ -1,0 +1,47 @@
+body {
+    background-image:url("https://cdn.britannica.com/10/152310-050-5A09D74A/Sand-dunes-Sahara-Morocco-Merzouga.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    width:50%;
+    margin: 0 auto;
+    border: 10px red groove;
+    margin-top:3%;
+}
+p, h1, h3, h2 {
+    padding: 2%;
+    color: gold;
+    margin: 0 auto;
+}
+p{
+    font-weight: bold;
+    font-size: 150%;
+}
+h3{
+    font-size: 150%;
+}
+#results{
+    padding-top: 0;
+}
+#wrapper{
+    background-color: black;
+}
+
+#fail{
+    font-weight: bold;
+    font-size: 150%;
+    text-decoration: underline;
+}
+button {
+    background-color:#08f100;
+    font-size: 4em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width:600px;
+    height: 300px;
+    border-radius:5px;
+    border: 2px red groove;
+}
+button:hover{
+    cursor: pointer;
+    border: 10px red groove;
+}
